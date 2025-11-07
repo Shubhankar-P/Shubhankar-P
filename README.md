@@ -4,13 +4,16 @@
   🔥 I'm a Junior Software Developer eager to learn and have fun coding. <br>
   ✨ Favorite Tech so far: Java, Spring Boot, React, Kotlin... <br>
   📧 shubhankarpotnisofficial@gmail.com <br>
+  
   💼 🔭 Currently working on <strong>PersonalDiaryApp</strong>, privacy focused diary application.<br>
-  <a> Frontend Repository (work in progress🚧) </a> | <a href="https://github.com/Shubhankarp484/Personal-Diary-App">Backend Repository</a>
+  <a href="https://github.com/Shubhankarp484/Personal-Diary-App">Backend Repository</a>
 </p>  
+
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankarp484&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankarp484&layout=compact&theme=dark)
 
 # 
+
 <h3 align="center">Toolkit 🧰</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" />
