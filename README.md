@@ -7,14 +7,14 @@
   
   💼 Currently building: <strong>PersonalDiaryApp</strong> — a privacy-first digital diary.<br>
   🔒 Because your thoughts deserve encryption, not exposure.<br>
-  📁 Backend: <a href="https://github.com/Shubhankarp484/Personal-Diary-App">Personal Diary App Repository</a>
+  📁 Backend: <a href="https://github.com/Shubhankar-P/Personal-Diary-App">Personal Diary App Repository</a>
 </p>
 
 <hr>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankarp484&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankar-P&layout=compact&theme=dark" />
 </p>
 
 <hr>
