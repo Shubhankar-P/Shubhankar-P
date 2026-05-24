@@ -25,6 +25,10 @@
   <img src="https://streak-stats.demolab.com?user=Shubhankar-P&theme=dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhankar-P&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
 <hr>
 
 <!-- Tech Stack -->
